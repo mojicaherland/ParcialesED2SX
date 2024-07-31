@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9ad1579-e420-4258-a6d9-1b4d5ec3805c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenesED2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primerParcialArraySimpleDoble/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primerParcialArraySimpleDoble/listaEncadenadaSimple/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primerParcialArraySimpleDoble/listaVector/ListaVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primerParcialArraySimpleDoble/listaVector/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segundoParcialArboles/Arbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segundoParcialArboles/ListaArbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segundoParcialArboles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segundoParcialArboles/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tercerParcialGrafos/Arco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tercerParcialGrafos/Grafo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tercerParcialGrafos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tercerParcialGrafos/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722450995430</updated>
-      <workItem from="1722450996636" duration="2187000" />
+      <workItem from="1722450996636" duration="3244000" />
     </task>
     <servers />
   </component>
