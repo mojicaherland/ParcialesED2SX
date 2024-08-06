@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9ad1579-e420-4258-a6d9-1b4d5ec3805c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bd/bdDemo.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primerParcialArraySimpleDoble/listaEncadenadaSimple/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primerParcialArraySimpleDoble/listaEncadenadaSimple/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,8 @@
       <workItem from="1722780278627" duration="120000" />
       <workItem from="1722871474410" duration="35000" />
       <workItem from="1722873649525" duration="604000" />
-      <workItem from="1722952156796" duration="14000" />
+      <workItem from="1722952156796" duration="36000" />
+      <workItem from="1722972550457" duration="36000" />
     </task>
     <servers />
   </component>
